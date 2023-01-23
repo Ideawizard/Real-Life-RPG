@@ -1,0 +1,1 @@
+These comments are on your Dice file because that's the one that has comments, and I believe was the one you requested that I look at. I don't have a lot to say besides that the comments are good and descriptive, telling not just what but why. The code itself is clean, and succinctly written. Great work.
